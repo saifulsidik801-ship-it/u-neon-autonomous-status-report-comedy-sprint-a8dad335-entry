@@ -1,3 +1,5 @@
+# Neon Status Report Comedy Sprint — one-line status report, max 200 chars.
+# Writes the entry text to /output/entry.txt; judge scores the line alone.
 """Status Report Comedy Sprint entry.
 
 Writes one line (max 200 chars) to /output/entry.txt: the funniest
